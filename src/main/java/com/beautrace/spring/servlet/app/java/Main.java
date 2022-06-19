@@ -1,4 +1,4 @@
-package io.beautrace.spring.servlet.app.java;
+package com.beautrace.spring.servlet.app.java;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
